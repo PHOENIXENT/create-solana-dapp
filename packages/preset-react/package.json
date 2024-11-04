@@ -7,7 +7,7 @@
     "@nx/js": "19.3.2",
     "@nx/eslint": "19.3.2",
     "@nx/react": "19.3.2",
-    "@nx/webpack": "19.3.2",
+    "@nx/webpack": "20.0.8",
     "@solana-developers/preset-anchor": "*",
     "@solana-developers/preset-common": "*",
     "prettier": "^2.6.2",
