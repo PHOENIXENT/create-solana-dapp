@@ -4,7 +4,7 @@
   "description": "This library is a preset for create-solana-dapp that adds next.js support to your project.",
   "dependencies": {
     "@nx/devkit": "19.3.2",
-    "@nx/jest": "19.3.2",
+    "@nx/jest": "21.3.0",
     "@nx/js": "19.3.2",
     "@nx/eslint": "19.3.2",
     "@nx/next": "19.3.2",
