@@ -5,7 +5,7 @@
   "dependencies": {
     "@nx/devkit": "19.3.2",
     "@nx/js": "19.3.2",
-    "@nx/jest": "19.3.2",
+    "@nx/jest": "21.3.0",
     "@solana-developers/preset-common": "*",
     "@solana/web3.js": "^1.90.0",
     "tslib": "^2.3.0"
