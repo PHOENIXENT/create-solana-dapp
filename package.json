@@ -18,7 +18,7 @@
   "private": true,
   "dependencies": {
     "@clack/prompts": "^0.7.0",
-    "@inquirer/prompts": "^5.0.2",
+    "@inquirer/prompts": "^7.0.0",
     "@nx/devkit": "19.3.2",
     "@solana/web3.js": "^1.91.9",
     "@swc/helpers": "0.5.11",
