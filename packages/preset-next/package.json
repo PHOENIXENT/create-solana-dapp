@@ -6,7 +6,7 @@
     "@nx/devkit": "19.3.2",
     "@nx/jest": "19.3.2",
     "@nx/js": "19.3.2",
-    "@nx/eslint": "19.3.2",
+    "@nx/eslint": "19.8.14",
     "@nx/next": "19.3.2",
     "@solana-developers/preset-common": "*",
     "@solana-developers/preset-react": "*",
